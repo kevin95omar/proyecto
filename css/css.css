@@ -1,0 +1,50 @@
+div#div {
+                border: darkslategrey 25px solid;
+                margin: 20px;
+                padding: 20px;
+                align-content: center;
+                display:inline-block;
+                font-family: fantasy;
+                color: blanchedalmond;
+                background-color: gray;
+                border-style: groove;
+                        
+                }
+                div#imagen{
+                    margin: 25px;
+                    margin-right: 100px;                                                                             
+                }
+                
+                h1#titulo{
+                   
+                    font-family: fantasy;
+                    font-size: 40pt;
+                }
+                
+                p#datos{
+                    font-size: 30pt;
+                    margin-left: 50px;
+                }
+                 p#estudios{
+                    font-size: 30pt;
+                     margin-left: 50px;
+                }
+                  p#experiencia{
+                    font-size: 30pt;
+                    margin-left: 50px;
+                   
+                }
+                ul#estudios{
+                    margin-right: 50px;
+                    font-size: 20pt;
+                    margin-left: 100px;
+                }
+                ul#datos{
+                    font-size: 20pt;
+                    margin-left: 100px;
+                }
+                 ul#experiencia{
+                    font-size: 20pt;
+                    margin-left: 100px;
+                    
+                }
